@@ -26,9 +26,8 @@ A Streamlit app for predictive maintenance using NASA's C-MAPSS turbofan engine 
 - test_FD001.txt
 - RUL_FD001.txt
 
-Upload via the sidebar of the app.
-
 ## Reference
 Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008).
 Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation.
 PHM'08, Denver CO.
+
